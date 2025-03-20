@@ -1,16 +1,17 @@
-# language_learning
 
-A new Flutter project.
+A Flutter-based educational app that teaches German numbers and words with visual representations. It includes audio pronunciation to enhance learning.
 
-## Getting Started
+## 📸 Screenshots
+![Home Screen](ScreenShots/SplashScreen.png)
+![Home Screen](ScreenShots/HomeScreen.png)
+![Home Screen](ScreenShots/NumbersScreen.png)
+![Home Screen](ScreenShots/FamilyScreen.png)
+![Home Screen](ScreenShots/ColorsScreen.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📌 Technologies Used in the Project:
+Flutter - The main framework for the application.
+Dart - The programming language used with Flutter.
+Audioplayers – For playing audio files.
+Flutter Assets – For storing images and audio files within the app.
+Flutter Widgets – Such as Image for displaying images and Text for displaying text.
+Material Design – For designing the user interface.
