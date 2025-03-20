@@ -2,11 +2,11 @@
 A Flutter-based educational app that teaches German numbers and words with visual representations. It includes audio pronunciation to enhance learning.
 
 ## 📸 Screenshots
-![Home Screen](ScreenShots/SplashScreen.png)
-![Home Screen](ScreenShots/HomeScreen.png)
-![Home Screen](ScreenShots/NumbersScreen.png)
-![Home Screen](ScreenShots/FamilyScreen.png)
-![Home Screen](ScreenShots/ColorsScreen.png)
+![Home Screen](Screenshots/SplashScreen.png)
+![Home Screen](Screenshots/HomeScreen.png)
+![Home Screen](Screenshots/NumbersScreen.png)
+![Home Screen](Screenshots/FamilyScreen.png)
+![Home Screen](Screenshots/ColorsScreen.png)
 
 📌 Technologies Used in the Project:
 Flutter - The main framework for the application.
